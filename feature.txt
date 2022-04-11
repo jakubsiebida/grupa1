@@ -1,3 +1,5 @@
 Linia 1
+Linia poprawkowa
 Linia 2
 Linia 3
+Funkcjonalność w branchu feature git 
